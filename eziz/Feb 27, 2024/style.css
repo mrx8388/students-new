@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+.div1 {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 30px;
+}
+
+.img1 {
+  padding-right: 150px;
+}
+
+.yellow {
+  color: white;
+  background-color: rgb(188, 188, 79);
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.blue {
+  color: white;
+  background-color: blue;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+b {
+  font-size: 50px;
+}
+
+.div2 {
+  display: flex;
+  justify-content: center;
+  padding-top: 200px;
+  gap: 200px;
+}
+
+.green {
+  color: white;
+  background-color: green;
+  border: none;
+  border-radius: 2px;
+  padding: 10px;
+}
+
+.white {
+  border: none;
+  border-radius: 2px;
+  padding: 10px;
+  margin-left: 20px;
+}
