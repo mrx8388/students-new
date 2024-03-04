@@ -1,1 +1,51 @@
 @charset "UTF-8";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 30px;
+}
+
+.div {
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 30px;
+}
+
+.b {
+  margin-top: 20px;
+}
+
+.div2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+button {
+  padding: 20px;
+  color: white;
+  background-color: rgb(56, 184, 56);
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(47, 148, 47);
+}
+
+p {
+  color: #66799ea3;
+}
+
+i {
+  margin-right: 20px;
+}
