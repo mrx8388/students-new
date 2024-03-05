@@ -82,3 +82,21 @@ body {
   background-color: rgba(0, 0, 0, 0.227);
   margin-inline: auto;
 }
+
+.div1 {
+  margin: 100px;
+  font-size: 30px;
+}
+
+.our {
+margin-bottom: 100px;
+border: none;
+border-radius: 30px;
+background-color: #11ab7c;
+color: white;
+padding: 10px;
+}
+
+.our:hover {
+  background-color: #0e8460;
+}
